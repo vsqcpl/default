@@ -1,3 +1,0 @@
-# vsqcpl.github.io
-
-Welcome
